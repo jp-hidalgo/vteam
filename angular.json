@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "crud-vteam"
+    }
+  },
+  "defaultProject": "crud-vteam",
+  "cli": {
+    "analytics": "edb84cc7-4008-4788-9542-d4ff61e07227"
+  }
 }
